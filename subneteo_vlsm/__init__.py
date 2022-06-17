@@ -1,5 +1,5 @@
 __title__ = "Subneteo VLSM"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 __author__ = "Angel Rodriguez"
 __email__ = "venegasrv@outlook.com"
 __description__ = "Paquete para operar redes y subredes"
