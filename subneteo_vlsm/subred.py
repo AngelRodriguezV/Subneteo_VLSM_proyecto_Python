@@ -1,8 +1,8 @@
 
 import pandas as pd
 
-from operaciones import calcularMascara, ObtenerBitsIP, CombertirDecimal, SumarUnBinario, SumaIP, RestaIP, AgruparIP
-from red import Red
+from subneteo_vlsm.operaciones import calcularMascara, ObtenerBitsIP, CombertirDecimal, SumarUnBinario, SumaIP, RestaIP, AgruparIP
+from subneteo_vlsm.red import Red
 
 class SubRed:
 
