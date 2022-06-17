@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: subneteo-vlsm
+Version: 0.0.1
+Summary: Paquete para operar redes y subredes
+Home-page: https://github.com/AngelRodriguezV/Subneteo_VLSM_proyecto_Python
+Author: Angel Rodriguez
+Author-email: venegasrv@outlook.com
+License: MIT License
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: Español
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE
+
+# Proyecto en Python para el Subneteo VLSM  
+
+Proyecto desarrollado para el Subneteo de redes y la asignaciÃ³n de las subredes.
+
+
